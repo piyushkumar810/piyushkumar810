@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Piyush Kumar</h1>
 <h3 align="center">A passionate frontend developer And Backend Learner from India</h3>
-<img src="https://media.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif" style="margin: 0; padding: 0; height: 300px; display: flex; justify-content: center; align-items: center;"/>
+<body style="margin: 0; padding: 0; height: 100vh; display: flex; justify-content: center; align-items: center;">
+  <img src="https://media.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif" width="400" alt="Centered GIF">
+</body>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=piyushkumar810" alt="piyushkumar810" /></a> </p>
 
