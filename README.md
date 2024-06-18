@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **piyushkumar810235@gmail.com**
 
-- ⚡ Fun fact **I Think I Am Funny**
+- ⚡ Fun fact **I Am Funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
