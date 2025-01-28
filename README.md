@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on **Car Rental System**
 
-- 🌱 I’m currently learning **Node.js, Express and MongoDb**
+- 🌱 I’m currently learning **Python and its libraries 😊**
 
-- 💬 Ask me about **JavaScript**
+- 💬 Ask me about **Python**
 
 - 📫 How to reach me **piyushkumar810235@gmail.com**
 
