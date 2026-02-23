@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Piyush Kumar</h1>
 <h3 align="center">A passionate frontend developer And Backend Learner from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=piyushkumar810" alt="piyushkumar810" /></a> </p>
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=piyushkumar810&no-frame=true" alt="piyushkumar810" />
+</a>
 
 - 🔭 I’m currently working on **Car Rental System**
 
