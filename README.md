@@ -45,13 +45,13 @@ Data Engineering Enthusiast ⚙️ | Python Developer 🐍 | Ex-Web Developer �
 
 ## 📊 GitHub Analytics
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=piyushkumar810&show_icons=true&theme=tokyonight&count_private=true" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=piyushkumar810&layout=compact&theme=tokyonight" />
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=piyushkumar810&theme=tokyonight" />
