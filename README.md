@@ -41,7 +41,7 @@
 - 🌐 **Portfolio Website**  
   Built using HTML & CSS  
 
-👉 (Add GitHub links here)
+👉 GitHub: https://github.com/piyushkumar810
 
 ---
 
@@ -63,4 +63,3 @@
 - GitHub: https://github.com/piyushkumar810  
 - CodeChef: https://www.codechef.com/users/piyush810  
 - Email: piyushkumar810235@gmail.com 
-- CodeChef: https://www.codechef.com/users/piyush810  
